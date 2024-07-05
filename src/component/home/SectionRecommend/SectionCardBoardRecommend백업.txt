@@ -1,0 +1,27 @@
+import React from "react";
+import Card from 'react-bootstrap/Card';
+import Carousel from 'react-bootstrap/Carousel'
+
+function SectionCardBoardRecommend(props) {
+    return (
+        <Card className="text-center" style={{
+            width:`${props.stylewidth}`,
+            height:`${props.styleheight}`
+        }}>
+            <Card.Header style={{background:"#d7d4d4"}}>
+                <strong>{props.cardHeader}</strong>
+            </Card.Header>
+            <Card.Body>
+                <Carousel fade data-bs-theme={"dark"}>
+                    {props.bodyContent.map((item, index) => (
+                        <Carousel.Item key={index}>
+                            {item}
+                        </Carousel.Item>
+                    ))}
+                </Carousel>
+            </Card.Body>
+        </Card>
+    );
+}
+
+export default SectionCardBoardRecommend;

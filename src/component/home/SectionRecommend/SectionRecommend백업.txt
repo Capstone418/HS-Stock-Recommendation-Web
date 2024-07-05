@@ -1,0 +1,48 @@
+import React,{useEffect,useState} from "react";
+import axios from "axios";
+import SectionCardBoardRecommend from "./SectionCardBoardRecommend"
+import StockCard from "./StockCard";
+
+function SectionRecommend(props) {
+    const [recommendStocks, setRecommendStocks] = useState([]);
+
+    useEffect(() => {
+        axios.get('/api/home')
+            .then(response => {
+                setRecommendStocks(response.data);
+            })
+            .catch(error => {
+                console.error('Error fetching data[SectionRecommend]:', error);
+            });
+    }, []);
+
+    recommendStocks.map(stock => (
+        console.log(`"######## ${stock.code}"`)
+    ));
+    return (
+        <div id={"Card-Stock-Recommend"} style={{
+            width:"100%", marginTop:"30px",
+            display:"flex", justifyContent:"center", alignItems:"center"
+        }}>
+            <SectionCardBoardRecommend
+                cardHeader={"추천 종목"}
+                stylewidth={"60%"}
+                styleheight={"400px"}
+                /*
+                bodyContent={[
+                    <StockCard key={"005930"} stockname={"KRX:005930"}/>,
+                    <StockCard key={"066570"} stockname={"KRX:066570"}/>,
+                    <StockCard key={"005380"} stockname={"KRX:005380"}/>,
+                    <StockCard key={"028260"} stockname={"KRX:028260"}/>,
+                    <StockCard key={"035720"} stockname={"KRX:035720"}/>,
+                ]}
+                */
+                bodyContent={recommendStocks.map(stock => (
+                    <StockCard key={`${stock.code}`} stockname={`KRX:${stock.code}`}/>
+                ))}
+            />
+        </div>
+    );
+}
+
+export default SectionRecommend;
