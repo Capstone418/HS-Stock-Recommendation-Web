@@ -1,11 +1,11 @@
                                                       자유게시판
 
-![image](https://github.com/user-attachments/assets/5f14e35c-6ebf-4be1-85bb-dbed3a91a477)
-![image](https://github.com/user-attachments/assets/ba8c7e67-203d-45af-9d79-ba39d9392831)
-![image](https://github.com/user-attachments/assets/269fd445-8a2d-4b40-b317-7938d7d3aeb3)
-![image](https://github.com/user-attachments/assets/9346ecde-1b3b-4f37-9e21-1f30254f9ead)
-![image](https://github.com/user-attachments/assets/409d7059-2c52-4875-99b8-3e665ac345f9)
-![image](https://github.com/user-attachments/assets/28f495ec-632b-4b84-ac7c-6485135512d6)
+![image](5f14e35c-6ebf-4be1-85bb-dbed3a91a477)
+![image](ba8c7e67-203d-45af-9d79-ba39d9392831)
+![image](269fd445-8a2d-4b40-b317-7938d7d3aeb3)
+![image](9346ecde-1b3b-4f37-9e21-1f30254f9ead)
+![image](409d7059-2c52-4875-99b8-3e665ac345f9)
+![image](28f495ec-632b-4b84-ac7c-6485135512d6)
 
                                                        사용자 정보
 
