@@ -1,7 +1,8 @@
                                                        자유게시판
-![image](https://github.com/user-attachments/assets/a40220cc-68e3-4efb-88dd-748c1f623a83)
+                                                       
+![image](https://github.com/user-attachments/assets/bf7c603a-5e86-4055-a955-93cba077e7df)
 ![image](https://github.com/user-attachments/assets/e3485a1d-375a-4ace-849a-c27564226eb0)
-![image](https://github.com/user-attachments/assets/be0f0829-9006-4a29-a6b8-b23242e3e48e)
+![image](https://github.com/user-attachments/assets/a40220cc-68e3-4efb-88dd-748c1f623a83)
 ![image](https://github.com/user-attachments/assets/34da7296-f732-44ec-879d-b83047d2ebad)
 ![image](https://github.com/user-attachments/assets/d38791e6-1649-487b-bb15-392d7e10c6c5)
 
