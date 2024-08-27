@@ -1,6 +1,6 @@
                                                        자유게시판
                                                        
-![image](https://github.com/user-attachments/assets/ff9663fc-6a72-441e-9ea0-04d86d0f14cc)
+![image](https://github.com/user-attachments/assets/bc9421c2-d193-40f6-bf2a-5efc1648093f)
 
 ![image](https://github.com/user-attachments/assets/e3485a1d-375a-4ace-849a-c27564226eb0)
 
