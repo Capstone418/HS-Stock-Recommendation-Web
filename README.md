@@ -1,5 +1,5 @@
                                                        자유게시판
-![image](https://github.com/user-attachments/assets/e2e399d1-9ff6-4760-bdca-c48fcbec53ee)
+![image](https://github.com/user-attachments/assets/a40220cc-68e3-4efb-88dd-748c1f623a83)
 ![image](https://github.com/user-attachments/assets/e3485a1d-375a-4ace-849a-c27564226eb0)
 ![image](https://github.com/user-attachments/assets/be0f0829-9006-4a29-a6b8-b23242e3e48e)
 ![image](https://github.com/user-attachments/assets/34da7296-f732-44ec-879d-b83047d2ebad)
