@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/e2e399d1-9ff6-4760-bdca-c48fcbec53ee)
 ![image](https://github.com/user-attachments/assets/e3485a1d-375a-4ace-849a-c27564226eb0)
 ![image](https://github.com/user-attachments/assets/be0f0829-9006-4a29-a6b8-b23242e3e48e)
-![image](https://github.com/user-attachments/assets/17898203-3661-46a3-8605-f7d971ac03ac)
+![image](https://github.com/user-attachments/assets/d2c343ef-3567-48b8-a1d5-c3af5d0d3580)
 ![image](https://github.com/user-attachments/assets/d38791e6-1649-487b-bb15-392d7e10c6c5)
 
                                                        사용자 정보
